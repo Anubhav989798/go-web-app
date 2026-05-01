@@ -1,4 +1,4 @@
 image:
   repository: nginx
   pullPolicy: IfNotPresent
-  tag: "v1"
+  tag: "25210467252"
